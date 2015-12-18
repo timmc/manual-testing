@@ -3,7 +3,9 @@
 A little repo with information on how I do manual software
 testing. This just covers the more rote side of things -- the part
 that's easier to write down. The purpose is to help other people do
-some of their own testing.
+some of their own testing:
+
+- [toolkit.md](toolkit.md)
 
 cf. https://github.com/minimaxir/big-list-of-naughty-strings which is
 more complete on the string roundtripping and validation siide of
